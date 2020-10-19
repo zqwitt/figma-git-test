@@ -7,7 +7,11 @@
     {
       "type": "PAGE",
       "guides": [],
-      "selection": [],
+      "selection": [
+        {
+          "id": "83:0"
+        }
+      ],
       "selectedTextRange": null,
       "id": "0:1",
       "parent": "0:0",
@@ -269,6 +273,84 @@
             "type": "NONE"
           },
           "overlayBackgroundInteraction": "NONE"
+        },
+        {
+          "type": "RECTANGLE",
+          "id": "83:0",
+          "parent": "0:1",
+          "removed": false,
+          "name": "Rectangle 3",
+          "visible": true,
+          "locked": false,
+          "opacity": 1,
+          "blendMode": "PASS_THROUGH",
+          "isMask": false,
+          "effects": [],
+          "cornerRadius": 0,
+          "cornerSmoothing": 0,
+          "topLeftRadius": 0,
+          "topRightRadius": 0,
+          "bottomLeftRadius": 0,
+          "bottomRightRadius": 0,
+          "fills": [
+            {
+              "type": "SOLID",
+              "visible": true,
+              "opacity": 1,
+              "blendMode": "NORMAL",
+              "color": {
+                "r": 0.7686274647712708,
+                "g": 0.7686274647712708,
+                "b": 0.7686274647712708
+              }
+            }
+          ],
+          "strokes": [],
+          "strokeWeight": 1,
+          "strokeMiterLimit": 4,
+          "strokeAlign": "INSIDE",
+          "strokeCap": "NONE",
+          "strokeJoin": "MITER",
+          "dashPattern": [],
+          "fillStyleId": "",
+          "strokeStyleId": "",
+          "absoluteTransform": [
+            [
+              1,
+              0,
+              -62
+            ],
+            [
+              0,
+              1,
+              -574
+            ]
+          ],
+          "relativeTransform": [
+            [
+              1,
+              0,
+              -62
+            ],
+            [
+              0,
+              1,
+              -574
+            ]
+          ],
+          "x": -62,
+          "y": -574,
+          "rotation": 0,
+          "width": 208,
+          "height": 208,
+          "constrainProportions": true,
+          "layoutAlign": "MIN",
+          "constraints": {
+            "horizontal": "MIN",
+            "vertical": "MIN"
+          },
+          "exportSettings": [],
+          "reactions": []
         }
       ],
       "exportSettings": []
